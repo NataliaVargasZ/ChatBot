@@ -1,0 +1,48 @@
+html {
+
+    height: 100%;
+
+    width: 100%;
+
+    h1 {
+
+        color: #2660e8;
+    }
+
+    h3 {
+
+        color: #9c8cd4;
+
+    }
+
+    i {
+
+        color: #e10e0e;
+
+    }
+
+    input {
+        background-color: #c9d7fb;
+        border-radius: 10px;
+    }
+
+    button {
+
+        background-color: #7c9ff8;
+        border-radius: 10px;
+
+    }
+
+    form {
+
+        text-align: center;
+
+        background-color: #c9d7fb;
+
+    }
+
+    p {
+
+        text-align: center;
+    }
+}
